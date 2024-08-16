@@ -1,4 +1,4 @@
-#Disciplina Optativa do oitavo período do curso de Engenharia de Computação.
+Disciplina Optativa do oitavo período do curso de Engenharia de Computação.
 | Ordem | Ementa      | Conteúdo                                                                                          |
 |-------|-------------|---------------------------------------------------------------------------------------------------|
 | 1     | Fundamentos | Definições dentro da computação gráfica; áreas de aplicação; sistemas de coordenadas; arquitetura da placa de vídeo. |
